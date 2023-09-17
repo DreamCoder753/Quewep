@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "board",
+        "1": "legs",
+        "2": "table_top"
+      },
+      "name": "default"
+    }
+  }
+}

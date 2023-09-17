@@ -2,14 +2,14 @@
   "_fv": 28,
   "_type": "block",
   "definition": {
-    "texture": "texture",
+    "texture": "table_2",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "model:default",
+    "customModelName": "table_1:default",
     "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Шкаф",
+    "name": "Игровой стол",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -77,7 +77,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "WOOD"
+      "value": "GROUND"
     },
     "breakSound": {
       "value": ""

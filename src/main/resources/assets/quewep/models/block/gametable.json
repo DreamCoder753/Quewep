@@ -1,0 +1,10 @@
+{
+  "parent": "quewep:custom/table_1",
+  "textures": {
+    "all": "quewep:blocks/table_2",
+    "particle": "quewep:blocks/table_2",
+    "0": "quewep:blocks/table_2",
+    "1": "quewep:blocks/board_2",
+    "2": "quewep:blocks/board_1"
+  }
+}

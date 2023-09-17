@@ -27,12 +27,12 @@ import java.util.List;
 import java.util.Collections;
 
 @QuewepModElements.ModElement.Tag
-public class WardrobeBlock extends QuewepModElements.ModElement {
-	@ObjectHolder("quewep:wardrobe")
+public class TableBlock extends QuewepModElements.ModElement {
+	@ObjectHolder("quewep:table")
 	public static final Block block = null;
 
-	public WardrobeBlock(QuewepModElements instance) {
-		super(instance, 1);
+	public TableBlock(QuewepModElements instance) {
+		super(instance, 3);
 	}
 
 	@Override
@@ -51,7 +51,7 @@ public class WardrobeBlock extends QuewepModElements.ModElement {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(0)
 					.harvestTool(ToolType.AXE).setRequiresTool().notSolid().setOpaque((bs, br, bp) -> false));
-			setRegistryName("wardrobe");
+			setRegistryName("table");
 		}
 
 		@Override

@@ -7,13 +7,55 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "wardrobe"
+    },
+    {
+      "name": "Recipt",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipt"
+    },
+    {
+      "name": "Table",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "table"
+    },
+    {
+      "name": "Gametable",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gametable"
+    },
+    {
+      "name": "Gamet",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gamet"
+    },
+    {
+      "name": "Gametab",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gametab"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.quewep.wardrobe": "Шкаф"
+      "block.quewep.table": "Стол",
+      "block.quewep.wardrobe": "Шкаф",
+      "block.quewep.gametable": "Игровой стол"
     }
   },
   "foldersRoot": {
