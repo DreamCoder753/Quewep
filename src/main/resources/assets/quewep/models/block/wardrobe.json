@@ -1,0 +1,10 @@
+{
+  "parent": "quewep:custom/model",
+  "textures": {
+    "all": "quewep:blocks/texture",
+    "particle": "quewep:blocks/texture",
+    "0": "quewep:blocks/texture",
+    "1": "quewep:blocks/texture1",
+    "2": "quewep:blocks/texture2"
+  }
+}
